@@ -1,9 +1,11 @@
 # From Inquiry to Action: Automating Emails with Excel
 
-Author: Cody
+Author: Ting Hsuan Hsu
+
+Project Created: 06/2023
 
 ## Background and Goals
-This project was created during my work-study job at a talent development team. My role involved:
+This project was created during my work-study job at a talent development team in 2023. My role involved:
 
 * Consulting on development opportunities internal & external
 * Managed program inquiries following established cross-department process.
