@@ -21,16 +21,23 @@ While advertising and understanding employee needs are important, we need a more
 
 Here's our plan:
 
-* **Gather Feedback:** We'll implement a follow-up email system to gather feedback from program participants. This internal feedback will help us improve offerings, while external feedback can validate courses or even lead to internal training creation.
+* **Gather Feedback:** We decided to implement a follow-up email system to gather feedback from program participants. This internal feedback will help us improve offerings, while external feedback can validate courses or even lead to internal training creation. 
 
 
 **Starting Simple with Excel**
 
-Unfortunately, there were no existing software or dedicated systems for sending follow-up emails. So, we opted for a basic solution using Microsoft Excel as a starting point. 
+Unfortunately, there were no existing software or dedicated systems for sending follow-up emails. So, we opted for a basic solution using Microsoft Excel as a starting point. As the team member with the most extensive Excel knowledge, I took the lead on designing the solution. This involved incorporating valuable feedback from colleagues and crafting an effective email template.
 
 ## Solution Design
 
-For the solution part, I also have created a powerpoint for my colleagues for the future use, the readness is also easier, if you would like can skip here, and up for the colorful version. click here.
+The solution part include following steps:
+
+1. Data Preparation (Power Query)
+2. Email Template Design with placeholders
+3. Tips for sharability
+4. Developer Tab enablement (one-time)
+5. VBA code adpation (can also be found [HERE](docs/code_adaption.pdf))
+6. Excution 
 
 * **Step 1**: Data Preparation
 
@@ -130,7 +137,7 @@ Before excution:
 * Try not to change the column sequence to avoid crash
 * Make sure text are all in the „“, spelling is correct including upper/lower case, space etc.,
 
-Make it Happen, assign it a button:)
+Make it Happen, assign it to a button:)
 1. Go to Insert > Shapes (choose a shape).
 2. Draw the button on your sheet.
 3. Right-click the button and select Assign Macro.
